@@ -1,0 +1,17 @@
+body {
+   background-color: #83677B
+}
+nav {
+    color: #05386B;
+    background-color: #ADADAD;
+    font-size: 2em;
+}
+h1 {
+    color: #2E1114;
+    font-size: 4em;
+}
+main {
+    color: #ADADAD;
+    background-color: #501B1D;
+    font-size: 2.5em;
+}
