@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+	<body>
+		<canvas width=300 height=300 id="canvas"></canvas>
+		<script src="./js/main_canvas
+		.js" type="module"></script>
+	</body>
+</html>
+
+<const canvas = document.querySelector('canvas');
+const ctx = canvas.getContext('2d');
+
+ctx.beginPath();
+ctx.arc(100, 75, 50, 0, 2 * Math.PI);
+ctx.stroke();
