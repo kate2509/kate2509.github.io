@@ -7,10 +7,11 @@ h1 {
 }
 a {
     color: #EDF5E1;
-    font-size: 2em;  
+    font-size: 2em;
 }
 g {
-    color: #05386B;
-    background-color: #EDF5E1;
-    font-size: 1.5em;
+    background-color: #5CDB95
+}
+div {
+    background-color: #5CDB95;
 }
